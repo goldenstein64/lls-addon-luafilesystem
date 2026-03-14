@@ -3,7 +3,7 @@ package = "lls-addon-luafilesystem"
 version = "release-1"
 
 source = {
-    url = "git+https://github.com/LuaCATS/luafilesystem",
+    url = "git+https://github.com/goldenstein64/lls-addon-luafilesystem",
 }
 
 description = {
