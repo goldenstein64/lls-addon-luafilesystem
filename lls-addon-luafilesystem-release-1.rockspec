@@ -9,7 +9,7 @@ source = {
 description = {
     summary = "LuaLS type definitions for LuaFileSystem library",
     license = "MIT",
-    homepage = "https://github.com/LuaCATS/luafilesystem",
+    homepage = "https://github.com/goldenstein64/lls-addon-luafilesystem",
 }
 
 build = {
